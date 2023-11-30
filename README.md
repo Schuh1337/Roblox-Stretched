@@ -1,2 +1,3 @@
 # Roblox-Stretched
-stretches the roblox application without changing resoluton
+
+made this b4 byfron released :C
